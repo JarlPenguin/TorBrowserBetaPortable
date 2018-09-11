@@ -1,5 +1,5 @@
 ## Tor Browser (Beta) Portable
-Welcome to the Tor Browser (Beta) Portable Homepage! Here you will find resources and download links. fix ii
+Welcome to the Tor Browser (Beta) Portable Homepage! Here you will find resources and download links.
 
 *Looking for the stable version of [Tor Browser Portable](https://jarlpenguin.github.io/TorBrowserPortable)?*
 ## Resources
