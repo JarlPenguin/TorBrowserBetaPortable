@@ -9,4 +9,4 @@ Welcome to the Tor Browser (Beta) Portable Homepage! Here you will find resource
 ## Downloads
 |![Latest Version](https://github.com/JarlPenguin/JarlPenguin.github.io/blob/master/assets/icons/latest.png)|![GitHub](https://github.com/JarlPenguin/JarlPenguin.github.io/blob/master/assets/icons/previous.png)|
 |-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|[Latest Version](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases/download/8.4.9.92/TorBrowserBetaPortable_8.5_Alpha_2_Dev_Test_2_English.paf.exe)|[Legacy Versions](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases)|
+|[Latest Version](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases/download/8.4.9.93/TorBrowserBetaPortable_8.5_Alpha_3_Dev_Test_3_English.paf.exe)|[Legacy Versions](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases)|
