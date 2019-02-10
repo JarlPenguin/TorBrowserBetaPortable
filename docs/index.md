@@ -10,5 +10,5 @@ Welcome to the Tor Browser (Beta) Portable Homepage! Here you will find resource
 - This app's [help.html](https://github.com/JarlPenguin/TorBrowserBetaPortable/tree/master/docs/help.html)
 
 ## Downloads
-- [Latest Version](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases/download/8.4.9.963/TorBrowserBetaPortable_8.5_Alpha_6_Dev_Test_3.paf.exe)
+- [Latest Version](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases/download/8.4.9.973/TorBrowserBetaPortable_8.5_Alpha_7_Dev_Test_3.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/TorBrowserBetaPortable/releases)
